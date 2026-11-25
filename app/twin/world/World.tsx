@@ -23,7 +23,7 @@ import { atLocal, localLabel, moonFor, sitePlace, sunAt } from "./clock";
 import { DESERT } from "./Ground";
 import { lit, RIM, setNight } from "../models/shaders";
 import { type XZ } from "./terrain";
-import { SkyDome, Stars, type SkyState } from "./Sky";
+import { SkyDome, Stars, type SkyState } from "./SkyScene";
 import { Ground } from "./Ground";
 import { FarLights, Ridges } from "./Horizon";
 import { PadLights } from "./PadLights";

@@ -9,7 +9,7 @@ import { LiveClock } from "@/app/ui/LiveClock";
 import { LockdownBanner } from "@/app/ui/LockdownBanner";
 import { ScreenHeader } from "@/app/ui/ScreenHeader";
 import "@/app/ui/motion.css";
-import { Field } from "./Field";
+import { Field } from "./FieldScene";
 import { useStation, type Mark } from "./useStation";
 import { CONTROLS, FAKED_NOTE, HTTPS_NOTE, LEGEND, NO_CABLE, SAY, STEPS, TITLE, TROUBLE, fill } from "./content";
 import s from "./vr.module.css";
