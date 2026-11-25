@@ -74,9 +74,11 @@ All telemetry comes from EOG's challenge data. Faults injected from Phone 1 are 
 
 ## Getting started
 
+[Open the hosted demo](https://brine-hackutd.vercel.app/) to explore the challenge scenario without installing the toolchain. Use the local steps below to run your own instance.
+
 ### Requirements
 
-- Node 22 and npm
+- Node.js 22.23.4+, 24.22.1+, or 26.12.1+ within those release lines, and npm
 - [SpacetimeDB](https://spacetimedb.com) 2.14.1
 - EOG's challenge data, cloned next to this repository as `../eog-data`
 
